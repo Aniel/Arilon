@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:cc="http://creativecommons.org/ns#" 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+  xmlns:svg="http://www.w3.org/2000/svg" 
+  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" version="1.1">
+  <path style="fill:none;stroke:#808080;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 8.2372881,9.9322034 7.3220339,2.6440678 14.474576,10.542373 10.644068,12.338983 8.440678,10.20339 5.3898305,14.033898 2.1016949,10.915254 7.3559322,2.6101695" id="path" />
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="0.65625" y="8.0625" id="text">
+    <tspan id="tspan3831" x="0.65625" y="8.0625">Arilon</tspan>
+  </text>
+  <circle style="" r="1" cy="12.25" cx="10.71875" id="red" />
+  <circle r="1" style="stroke-width:1.05347753" cy="13.83361" cx="5.3270235" id="c1" />
+  <circle r="1" style="stroke-width:1.05347753" cy="11.160674" cx="2.126761" id="c2" />
+  <circle r="1" style="stroke-width:1.05347753" cy="10.441639" cx="14.481513" id="c3" />
+  <circle r="1" cy="10.125" cx="8.4179039" id="path3836-7-0" />
+  <circle r="1" style="fill:#800000;stroke-width:1.05347753" cy="2.6739819" cx="7.2372351" id="c4" />
+</svg>

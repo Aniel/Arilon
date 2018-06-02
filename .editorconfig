@@ -1,0 +1,15 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+
+[*.{cs,html,cshtml}]
+indent_style = tab
+end_of_line = crlf
+charset = utf-8
+insert_final_newline = false
+
+[*.csproj]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
