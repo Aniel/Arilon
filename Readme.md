@@ -1,4 +1,4 @@
-![Arilon Logo](img\Arilon.png)
+![Arilon Logo](img/Arilon.png)
 
 **A**mazing **R**elationship **N**amer
 ---
